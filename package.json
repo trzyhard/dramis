@@ -5,20 +5,17 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [] 
   "license": "ISC",
   "dependencies": {
     "@inquirer/prompts": "^5.0.4",
     "@mysten/sui.js": "^0.54.1",
     "@polymedia/suits": "^0.0.41",
     "axios": "^1.6.8",
-    "chalk": "^5.3.0",
-    "delay": "^6.0.0",
-    "ip": "^2.0.1",
+    "chalk": "^5.3.0", 
     "moment": "^2.30.1",
-    "nodemon": "^3.1.0"
+    "node": "^3.1.0"
   }
 }
